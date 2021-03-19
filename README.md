@@ -6,8 +6,8 @@
 **Angham-Baniyounes/Angham-Baniyounes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on PHP, MySQL, MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJS), ReactJs, jQuery, JavaScript, WordPress, Bootstrap4, SASS, CSS3, HTML5.
-- 🌱 I’m currently learning Laravel.
+- 🔭 I’m currently working on Laravel, PHP, MySQL,Python Django, MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJS), ReactJs, jQuery, JavaScript, WordPress, Bootstrap4, SASS, CSS3, HTML5.
+- 🌱 I’m currently learning React-Native.
 - 📫 How to reach me: Email - angham.baniyounes@gmail.com, Linkedin - https://www.linkedin.com/in/angham-baniyounes/ .
 ### Languages, CMS, and Tools:
 <p>
