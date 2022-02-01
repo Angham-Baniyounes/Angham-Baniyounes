@@ -15,6 +15,7 @@ Here are some ideas to get you started:
  <ul>
    <li>Laravel</li>
    <li>PHP, MySQL</li>
+   <li>Vue Js</li>
    <li>React Native</li>
    <li>Python Django</li>
    <li>MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJS)</li>
