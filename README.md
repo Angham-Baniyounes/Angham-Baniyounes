@@ -1,5 +1,6 @@
 ### Hi there 👋
-### I'm Angham Bani-Younes. 🎶
+### I'm Angham Bani-Younes. 🎶 ✨
+### I'm a Laravel Developer. 👩‍💻 ❤ ✨
 <!-- ### I'm a trainee at Coding Academy by Orange as a Full-Stack developer. 👩‍💻❤😍 -->
 <!-- ### I have a Bachelor of Software Engineering. 😍 -->
 <!--
