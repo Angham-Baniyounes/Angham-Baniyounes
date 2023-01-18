@@ -13,20 +13,10 @@ Here are some ideas to get you started:
 ### Languages, CMS, and Tools:
 <p>
  <ul>
-   <li>Laravel</li>
-   <li>PHP, MySQL</li>
-   <li>Vue Js</li>
-   <li>React Native</li>
-   <li>Python Django</li>
-   <li>MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJS)</li>
-   <li>ReactJs</li>
-   <li>jQuery</li>
-   <li>JavaScript</li>
-   <li>WordPress</li>
-   <li>Bootstrap4</li>
-   <li>SASS</li>
-   <li>CSS3</li>
-   <li>HTML5</li>
+   <li> Laravel / PHP, MySQL </li>
+   <li> Vue Js, JavaScript, jQuery </li>
+   <li> WordPress </li>
+   <li>Bootstrap4, CSS3, HTML5</li>
   </ul>
 </p>
 
