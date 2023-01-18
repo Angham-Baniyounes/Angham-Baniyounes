@@ -1,6 +1,6 @@
 ### Hi there 👋
-### I'm Angham Bani-Younes. 🎶 ✨
-### I'm a Laravel Developer. 👩‍💻 ❤ ✨
+### I'm Angham Bani-Younes.✨
+### I'm a Laravel Developer. 👩‍💻✨
 <!-- ### I'm a trainee at Coding Academy by Orange as a Full-Stack developer. 👩‍💻❤😍 -->
 <!-- ### I have a Bachelor of Software Engineering. 😍 -->
 <!--
@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 <!-- - 🔭 I’m currently working on Laravel, PHP, MySQL,Python Django, MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJS), ReactJs, jQuery, JavaScript, WordPress, Bootstrap4, SASS, CSS3, HTML5. -->
-- 🔭 I’m currently working on Laravel, PHP, MySQL, and Vue Js.
+- 🔭 I’m currently working on Laravel, PHP, MySQL.
 <!-- - 🌱 I’m currently learning React-Native. -->
 - 📫 How to reach me: Email - angham.baniyounes@gmail.com, Linkedin - https://www.linkedin.com/in/angham-baniyounes/ .
 ### Languages, CMS, and Tools:
